@@ -1,0 +1,1 @@
+$('#loginform')[0].reset();
